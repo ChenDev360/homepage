@@ -1,0 +1,48 @@
+body {
+    background-repeat: no-repeat
+}
+
+a, a:hover, a:visited, a:active, a:link {
+    text-decoration: none;
+    background-color: transparent;
+    font-weight: normal;
+}
+
+tr {
+    font-size: 24px;
+}
+
+th {
+    font-weight: normal;
+    text-align: right;
+}
+
+table {
+    margin-top: 200px;
+    margin-left: 20px;
+}
+
+#search-bar {
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+input {
+    font-size: 24px;
+    height: 40px;
+    width: 600px
+}
+
+button {
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 24px;
+    height: 40px;
+    width: 40px
+}
+
+#style-div {
+    position: absolute;
+    top: 0;
+    left: 0;
+}

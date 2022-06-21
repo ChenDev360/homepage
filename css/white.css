@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(44, 44, 44);
+    background-image: url(images/light.png)
+}
+
+#section-1 {
+    color: rgb(235, 31, 31)
+}
+
+#section-2 {
+    color: rgb(135, 146, 34)
+}
+
+#section-3 {
+    color: rgb(230, 153, 0)
+}
+
+#section-4 {
+    color: rgb(138, 33, 173)
+}
+
+a, a:visited, a:active, a:link {
+    color: rgb(19, 104, 129);
+}
+
+a:hover {
+    color: rgb(17, 146, 206);
+}
+
+tr {
+    color: rgb(83, 99, 104);
+    font-size: 24px;
+}
+
+input {
+    color: rgb(0, 0, 0);
+    background-color: #ffffff;
+}
